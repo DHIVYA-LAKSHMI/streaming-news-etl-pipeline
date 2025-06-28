@@ -87,6 +87,9 @@ Below are snapshots of key project stages:
 ![S3 Output](docs/s3_output.png)
 
 ---
+## 📄 License
 
-## 🏗️ Folder Structure
+This project is licensed under the MIT License.
+
+
 
